@@ -1,5 +1,4 @@
 <div align="center">
-</div>
 <div align="center">
   <h1>Olá, meu nome é Lucas Freire! 👋</h1>
   <p>
