@@ -77,5 +77,5 @@
 <h2 align="center">📬 Contato</h2>
 <div align="center">
   <p>Vamos nos conectar! Sinta-se à vontade para me contatar por e-mail.</p>
-  <p>✉️ <strong>lucas.freire@teste</strong></p>
+  <p>✉️ <strong>lucas.mesquita@sou.unifal-mg.edu.br</strong></p>
 </div>
