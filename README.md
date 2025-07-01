@@ -1,6 +1,6 @@
 <div align="center">
 <div align="center">
-  <h1>Olá, meu nome é Lucas Freire! 👋</h1>
+  <h1>Olá, sou o Lucas Freire!</h1>
   <p>
     Sou estudante de <strong>Ciência da Computação</strong> na <strong>UNIFAL-MG</strong>.<br>
     Estou iniciando minha jornada como desenvolvedor, com grande interesse em resolver problemas e criar softwares que tornem sua vida mais fácil.<br>
