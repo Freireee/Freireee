@@ -1,3 +1,4 @@
+<p align="center">
 <div align="center">
 <div align="center">
   <h1>Olá, sou o Lucas Freire!</h1>
