@@ -1,5 +1,4 @@
 <div align="center">
-  <img src="https://i.imgur.com/T0p3c7g.png" alt="Banner do Perfil de Estudante" width="100%"/>
 </div>
 <div align="center">
   <h1>Olá, meu nome é Lucas Freire! 👋</h1>
