@@ -16,7 +16,7 @@
   <thead>
     <tr>
       <th>Disciplina</th>
-      <th>(https://github.com/Freireee/Freireee.git)</th>
+      <th>Repositório</th>
     </tr>
   </thead>
   <tbody>
