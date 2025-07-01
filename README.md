@@ -8,6 +8,7 @@
   </p>
 </div>
 
+<p align="center">
 <h2 align="center">📚 Disciplinas do Semestre Atual</h2>
 <p align="center">
   Abaixo estão os repositórios para cada disciplina que estou cursando. Neles, você encontrará meus materiais de estudo.
