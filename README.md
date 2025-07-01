@@ -6,6 +6,9 @@
     Estou iniciando minha jornada como desenvolvedor, com grande interesse em resolver problemas e criar softwares que tornem sua vida mais fácil.<br>
     Este espaço serve como um portfólio acadêmico e um registro do meu progresso.
   </p>
+  <p>
+    🌐 Visite meu site pessoal: <strong><a href="https://freireee.github.io/" target="_blank">freireee.github.io</a></strong>
+  </p>
 </div>
 
 <h2 align="center">📚 Disciplinas do Semestre Atual</h2>
