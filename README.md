@@ -75,8 +75,11 @@
 </div>
 
 <h2 align="center">📬 Como me Encontrar</h2>
+
 <div align="center">
+
   <p>Vamos nos conectar! Estou aberto a discussões sobre os tópicos que estou estudando e futuros projetos.</p>
-  <a href="mailto:lucas.mesquita@sou-unifal.edu.br"><img src="https://img.shields.io/badge/-Email-%23333?style=for-the-badge&logo=gmail&logoColor=white" target="_blank"></a>
-  <a href="https://www.linkedin.com/in/[seu-usuario-linkedin]" target="_blank"><img src="https://img.shields.io/badge/-LinkedIn-%230077B5?style=for-the-badge&logo=linkedin&logoColor=white" target="_blank"></a>
+
+  <a href="mailto:lucas.mesquita@sou.unifal-mg.edu.br"><img src="https://img.shields.io/badge/-Email-%23333?style=for-the-badge&logo=gmail&logoColor=white" target="_blank"></a>
+
 </div>
