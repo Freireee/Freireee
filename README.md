@@ -9,7 +9,6 @@
     Este espaço serve como um portfólio acadêmico e um registro do meu progresso.
   </p>
 </div>
----
 
 <h2 align="center">📚 Disciplinas do Semestre Atual</h2>
 <p align="center">
@@ -65,7 +64,6 @@
     </tr>
   </tbody>
 </table>
----
 
 <h2 align="center">🛠️ Ferramentas e Tecnologias</h2>
 <p align="center">
@@ -78,7 +76,6 @@
   <img align="center" alt="VSCode" height="40" width="50" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/vscode/vscode-original.svg" title="Visual Studio Code">
   <img align="center" alt="NetBeans" height="40" width="50" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/netbeans/netbeans-original.svg" title="NetBeans">
 </div>
----
 
 <h2 align="center">📬 Como me Encontrar</h2>
 <div align="center">
