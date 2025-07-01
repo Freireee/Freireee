@@ -72,7 +72,9 @@
   <img align="center" alt="Python" height="40" width="50" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/python/python-original.svg" title="Python">
   <img align="center" alt="Git" height="40" width="50" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/git/git-original.svg" title="Git & GitHub">
   <img align="center" alt="VSCode" height="40" width="50" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/vscode/vscode-original.svg" title="Visual Studio Code">
-  <img align="center" alt="NetBeans" height="40" width="50" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/netbeans/netbeans-original.svg" title="NetBeans">
+ <br>
+ <img align="center" alt="NetBeans" height="40" width="50" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/netbeans/netbeans-original.svg" title="NetBeans">
+</div>
 </div>
 
 <h2 align="center">📬 Como me Encontrar</h2>
