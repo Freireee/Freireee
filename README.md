@@ -23,7 +23,7 @@
     <tr>
       <td><strong>Algoritmos e Estrutura de Dados</strong></td>
       <td align="center">
-        <a href="https://github.com/Freireee/algoritmos-e-estrutura-de-dados">
+        <a href="https://github.com/Freireee/Algoritmo-e-Estrutura-de-Dados">
           Ver Repositório 📁
         </a>
       </td>
@@ -31,7 +31,7 @@
     <tr>
       <td><strong>Lógica Digital</strong></td>
       <td align="center">
-        <a href="https://github.com/Freireee/logica-digital">
+        <a href="https://github.com/Freireee/L-gica-Digital">
           Ver Repositório 📁
         </a>
       </td>
@@ -39,7 +39,7 @@
     <tr>
       <td><strong>Introdução à Ciência da Computação</strong></td>
       <td align="center">
-        <a href="https://github.com/Freireee/introducao-a-ciencia-da-computacao">
+        <a href="https://github.com/Freireee/Introdu-o-Ci-ncia-da-Computa-o">
           Ver Repositório 📁
         </a>
       </td>
@@ -47,7 +47,7 @@
     <tr>
       <td><strong>Fundamentos Matemáticos para Ciência da Computação</strong></td>
       <td align="center">
-        <a href="https://github.com/Freireee/fundamentos-matematicos-para-cc">
+        <a href="https://github.com/Freireee/Fundamentos-Matem-ticos-para-a-Ci-ncia-da-Computa-o">
           Ver Repositório 📁
         </a>
       </td>
@@ -55,7 +55,7 @@
     <tr>
       <td><strong>Geometria Analítica</strong></td>
       <td align="center">
-        <a href="https://github.com/Freireee/geometria-analitica">
+        <a href="https://github.com/Freireee/Geometria-Anal-tica">
           Ver Repositório 📁
         </a>
       </td>
