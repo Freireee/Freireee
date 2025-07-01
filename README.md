@@ -74,12 +74,8 @@
   <img align="center" alt="VSCode" height="40" width="50" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/vscode/vscode-original.svg" title="Visual Studio Code">
 </div>
 
-<h2 align="center">📬 Como me Encontrar</h2>
-
+<h2 align="center">📬 Contato</h2>
 <div align="center">
-
-  <p>Vamos nos conectar! Estou aberto a discussões sobre os tópicos que estou estudando e futuros projetos.</p>
-
-  <a href="mailto:lucas.mesquita@sou.unifal-mg.edu.br"><img src="https://img.shields.io/badge/-Email-%23333?style=for-the-badge&logo=gmail&logoColor=white" target="_blank"></a>
-
+  <p>Vamos nos conectar! Sinta-se à vontade para me contatar por e-mail.</p>
+  <p>✉️ <strong>lucas.freire@teste</strong></p>
 </div>
